@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.semepul-aieplac.com.mx/
+- certificate_url: https://www.semepul-aieplac.com.mx
   date_end: ""
   date_start: "2020-11-14"
   description: ""
