@@ -100,7 +100,7 @@ address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode
 coordinates = {latitude = "19.504262929720284", longitude = "-99.18370854543556"} 
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Enter Building H and take the stairs to Office 203 on Floor 1"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -113,8 +113,8 @@ appointment_url = "https://calendly.com"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
@@ -124,7 +124,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "ivan.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
