@@ -19,7 +19,8 @@ bio: My research interests include poverty, fiscal policy, energy and programmab
 # Interests to show in About widget
 interests:
 - Econometrics
-- Programming languages
+- Impact evaluation
+- Data science
 - Statistics
 
 # Education to show in About widget
@@ -64,12 +65,12 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ivanmrn5@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is an  economist researcher at Gestell. His research interests include fiscal policy, intergenerational poverty, energy and programmable matter. He leads the  Data Science Unit, which develops self-reporting robots, systems of self-organizing robots, and mobile  economic assitant.
+Iván Marín is an  economist researcher at Gestell. His research interests include fiscal policy, intergenerational poverty, energy and programmable matter. He leads the  Data Science Unit, which develops self-reporting robots, systems of self-organizing robots, and mobile  economic assitant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
