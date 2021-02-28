@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Vulnerability caused by FDI
+summary: An example of comming publication based on FDI and PIB per capita.
 tags:
-- Deep Learning
+- '*'
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/elcontrafactual
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +30,17 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Por mucho tiempo la discusión pública sobre la magnitud y el sentido del impacto que los recursos financieros del exterior ejercen sobre el bienestar individual. Este debate no es trivial, ya que existen incentivos sociales para suponer que estos recursos son indispensables para la formación de capital público, humano e industrial. Dicho sea de paso, se ha enfatizado sobre la necesidad de las economías receptoras para la convergencia económica.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Dada la relevancia de los recursos que aportan, resulta necesario reconocer si la respuesta sobre el bienestar ha generado beneficios o daños para el conjunto de la población. Como se puede observar en la Gráfica 1, la IED ha incrementado considerablemente a partir de la implementación de los mecanismos jurídicos, bajo la figura de tratados comerciales en la década de los noventa.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Al analizar la IED agregada en la región, observamos un ‘salto’ en los  niveles de la participación sobre el PIB regional registrados a partir de 1995. Este incremento se debe a la integración comercial que ocurrió derivado de los tratados internacionales celebrados por dichos países, a saber MERCOSUR y NAFTA, para Brasil y México, respectivamente. Aunque el tratado celebrado en Brasil consideró a Chile y Colombia como países asociados, es natural pensar que este instrumento jurídico propició derramas económicas sobre sus socios comerciales, debido, principalmente, a la cercanía geográfica.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Una primera aproximación sugiere que la relación que mantuvieron los recursos del exterior, como Inversión Extranjera Directa (IED), sobre las economías de Brasil, Chile, Colombia y México y el PIB per cápita durante 1960 a 2019 es positiva, tal como se puede apreciar en la Gráfica 2 , en donde el tamaño de las observaciones corresponde a la apertura de la economía. La gráfica sugiere una similitud entre las economías de Brasil y México, esta particularidad será abordada más adelante.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+No obstante la similitud mencionada, es remarcable la notoria diferencia que se registró entre las economías de Chile y Colombia, las cuales mantuvieron una apertura similar en el periodo de análisis. Para el caso chileno, la IED alcanzó niveles con una amplia distribución, mientras que Colombia parece haber mantenido una recepción de recursos más acotada.
+
+Si consideramos el PIB per cápita antes de la intervención, podemos observar una marcada diferencia sobre el promedio de la variable en cuestión, pues se puede apreciar de un incremento en el indicador, además, la variación del mismo parece haber disminuido notablemente para las economías de México y Brasil, tal como se puede apreciar en la Gráfica 3. Solo para el caso de Chile y Colombia, la distribución se mantiene, a pesar de ello es innegable el efecto positivo.
+
+En este sentido, es de esperarse que además de incrementar los niveles del indicador, el instrumento comercial se haya diseñado con el objetivo de estabilizar la distribución de la variable de interés, recortando su distribución. Lo anterior, puede traducirse en una estabilidad generalizada sobre el bienestar. Esta última idea, parece estar encausada en los tratados comerciales, como un objetivo secundario bajo los cuales se justifica su relevancia.
+
