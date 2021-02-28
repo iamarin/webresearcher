@@ -1,5 +1,5 @@
 ---
-title: Vulnerability caused by FDI
+title: Vulnerability on PIB per capita caused by FDI 
 summary: An example of comming publication based on FDI and PIB per capita.
 tags:
 - '*'
