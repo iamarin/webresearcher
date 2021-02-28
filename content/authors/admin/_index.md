@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Iván Marín Medrano
+title: Iván A. Marín Medrano
 
 # Is this the primary user of the site?
 superuser: true
