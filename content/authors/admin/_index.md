@@ -74,6 +74,6 @@ highlight_name: false
 
 Iván Marín is an  economist researcher at Gestell. His research interests include fiscal policy, intergenerational poverty, education, energy and programmable matter. He leads the  Data Science Unit, which develops self-reporting robots, forecasts and economic analysis.
 
- In his research, he seeks to understand the  trasnmission of poverty through generations, with the aim to help design and evaluate public policy. He has worked on fiscal topics, education and commerce.
+In his research, he seeks to understand the  trasnmission of poverty through generations, with the aim to help design and evaluate public policy. He has worked on fiscal topics, education and commerce.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
