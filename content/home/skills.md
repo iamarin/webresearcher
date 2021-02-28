@@ -28,6 +28,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+- description: 90%
+  icon: docker
+  icon_pack: fab
+  name: Docker
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

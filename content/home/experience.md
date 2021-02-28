@@ -31,9 +31,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Develop robust economic and statistical models in R and Python to support business decisions, validate demographic and economic results estimated at various geographical levels
+        * Provide technical insight and make recommendations based on economic, fiscal and statistical analysis.
+        * Assist Data Science Unit to ensure the accuracy of economic data, maintain and develop econometric models used for forecasting procedure.
+
         
   - title: Chief of Fiscal Instruments Department
     company: Ministry of Finance, Mexico City
@@ -44,7 +45,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Programmer in stata, mata, R and Excel/VBA: develop and share code for ingestion, cleaning, manipulation and process of big data  (+240gb).
+        * Project developer, deliver and present on basis deadlines the achievements of the projects design at  Dirección de Política Fiscal.
+        * Researcher, research, develop, update, and summarize national and international economic information, including econometric methodologies for evaluation
 ---
