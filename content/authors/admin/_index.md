@@ -71,6 +71,6 @@ email: "ivanmrn5@gmail.com"
 highlight_name: false
 ---
 
-Iván Marín is an  economist researcher at Gestell. His research interests include fiscal policy, intergenerational poverty, energy and programmable matter. He leads the  Data Science Unit, which develops self-reporting robots, systems of self-organizing robots, and mobile  economic assitant.
+Iván Marín is an  economist researcher at Gestell. His research interests include fiscal policy, intergenerational poverty, energy and programmable matter. He leads the  Data Science Unit, which develops self-reporting robots, systems of self-organizing robots, and mobile  economic assistant.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
